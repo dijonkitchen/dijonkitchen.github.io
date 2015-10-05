@@ -24,6 +24,7 @@ ul {margin: 0;
 .lg-pic{height: 40rem}
 .round {border-radius: 10rem}
 .no-margin {margin: 0}
+.sm-margin{margin: 10%}
 .no-padding {padding: 0}
 
 .inline-b {display: inline-block}
@@ -32,11 +33,13 @@ ul {margin: 0;
 @media (min-width: 40rem){
   .sd-font {font-size: 2rem}
   .lg-font {font-size: 5rem}
+  .sm-margin{margin: 5%}
   img {height:40rem; width: auto}
 }
 
 @media (min-width: 80rem){
   .sd-font {font-size: 1rem}
   .lg-font {font-size: 2rem}
+  .sm-margin{margin: 1%}
   img {height:20rem; width: auto}
 }
