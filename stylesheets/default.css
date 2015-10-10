@@ -7,8 +7,12 @@
 
 /* Main Styles */
 
-a {color: #268bd2}
+a {text-decoration: none}
+a:link {color: #268bd2}
 a:visited {color: #6c71c4}
+a:hover {color:           #2aa198;
+         text-decoration: underline;}
+body {margin: 0 1% 0 1%}
 li {list-style-type: none}
 ul {margin: 0;
     padding:0}
@@ -35,6 +39,7 @@ ul {margin: 0;
   .lg-font {font-size: 5rem}
   .sm-margin{margin: 5%}
   img {height:40rem; width: auto}
+  body {margin: 0 5% 0 5%}
 }
 
 @media (min-width: 80rem){
@@ -42,4 +47,8 @@ ul {margin: 0;
   .lg-font {font-size: 2rem}
   .sm-margin{margin: 1%}
   img {height:20rem; width: auto}
+  body {margin: 0 30% 0 30%}
+  .sm-pic{height: 10rem}
+  .md-pic{height: 30rem}
+  .lg-pic{height: 40rem}
 }
