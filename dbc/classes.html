@@ -37,12 +37,58 @@
         Let's look at an example of this in the real world. You could look at cars, animals, video games, or whatever you want. We'll examine schools!
       </p>
       <p>
-        So there are a ton of different schools: Preschool, Kindergarten, Elementary School, High School, College, Business School, Dev Bootcamp, you get the picture. Each one of these could be part of the <code>Class School</code> and inherit the things in common between all schools like subjects, classes, teachers, students, etc. Similarly, Schools in general can be part of the <code>Class Organization</code>. 
+        So there are a ton of different schools: Preschool, Kindergarten, Elementary School, High School, College, Business School, Dev Bootcamp, you get the picture. Each one of these could be part of the <code>Class School</code> and inherit the things in common between all schools like a name, students, teahers, subjects, classes, etc. Similarly, Schools in general can be part of the <code>Class Organization</code>.
       </p>
       <p>
+        This is how it would look in code:
+        <pre class="bg-gray sm-padding">
+Class School
 
+  attr_reader :name, :students, :teachers
+
+  def initialize(name, students, teachers)
+    @name = name
+    @students = students
+    @teachers = teachers
+  end
+
+  def student_teacher_ratio
+    @student.to_f / @teacher
+  end
+
+end
+        </pre>
       </p>
-      instance variables, instance methods, etc. for that object.
+      <p>
+        This creates the <code>Class School</code> and allows you to make new schools with the traits they have in common: name, students, and teachers in this simplified case.
+      </p>
+      <p>
+        To use the Class, you would create a new instance like this:
+
+        <pre class="bg-gray sm-padding">
+dev_bootcamp = School.new("Dev Bootcamp", 60, 6)
+        </pre>
+
+      This sets the instance variables in the dev_bootcamp instance. @name would be set to "Dev Bootcamp", @students would equal 60, and @teachers would equal 6.
+
+      If you wanted to see what the name, students, teachers, and student/teacher ratio was, then you could call the instance methods on the object dev_bootcamp like so:
+
+      <pre class="bg-gray sm-padding">
+puts dev_bootcamp.name
+puts dev_bootcamp.students
+puts dev_bootcamp.teachers
+puts dev_bootcamp.student_teacher_ratio
+
+# Outputs:
+# Dev Bootcamp
+# 60
+# 6
+# 10.0
+      </pre>
+      </p>
+      <p>
+        This is just a basic example, but you can easily image adding many more attributes to the class and all sorts of instance methods for statistics or getting other information. 
+      </p>
     </article>
 
     <footer>
