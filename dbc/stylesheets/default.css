@@ -21,12 +21,14 @@ li          {list-style-type:   none}
 ul          {margin:            0;
              padding:           0}
 
+td          {padding:           5%}
+
 .bg-beige   {background-color:  #fdf6e3}
 .bg-gray    {background:        #eee8d5}
 .font-sans  {font-family:       'Noto Sans'}
 .font-gray  {color:             #657b83}
 .txt-ctr    {text-align:        center}
-.sd-font    {font-size:         3 rem}
+.sd-font    {font-size:         3rem}
 .lg-font    {font-size:         10rem}
 .undl       {text-decoration:   underline}
 .md-pic     {height:            30rem}
