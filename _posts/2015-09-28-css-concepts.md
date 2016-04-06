@@ -14,11 +14,11 @@ Enter Atomic CSS. This is an approach to structuring CSS that has been around a 
 
 I thought this was mind-blowing! If you utilize this Atomic CSS philosophy, you just have "mini-classes" in your CSS that only edit one style at a time, so when you want to style your HTML, you can just tag on things you want to change on your website.
 
-      <p>
-        For example, see the below:
-        <img src="assets/atomic-html.png" alt="atomic html" class="sm-pic">
-        <img src="assets/atomic-css.png" alt="atomic css">
-      </p>
+For example, see the below:
+
+![atomic html](/images/atomic-html.png)
+
+![atomic css](/images/atomic-css.png)
 
 This shows how you can just add classes into the HTML to stack styles. Want bold and centered text on an item? No problem, just add "bold" and "ctr-text" to your class for that item!
 
