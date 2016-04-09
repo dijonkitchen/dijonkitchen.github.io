@@ -22,7 +22,7 @@ party_array[5] = 'Jim'
 
 Hashes are very similar to arrays. The main difference is that they aren't in any special order. Hashes are key-value pairs of items, where the key is required to be unique. The beauty here, is that those keys can be anything as long as there isn't a repeat. This data type is great for dictionaries. Each word is unique and would have some definition. Some words may have the same definition, but you wouldn't have two of the same words in the dictionary right?! That'd be unnecessary!
 
-```
+```ruby
 # This is how you use an hash in Ruby:
 state_dictionary_hash = {
   "NJ" => "New Jersey",
