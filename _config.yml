@@ -13,6 +13,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dijonkitchen.github.io/" # the base hostname & protocol for your site
 twitter_username: dijonkitchen
 github_username: dijonkitchen
- 
+
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink: /:title
