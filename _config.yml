@@ -18,4 +18,4 @@ github_username: dijonkitchen
 markdown: kramdown
 
 # Outputting
-permalink: /:title
+permalink: "/:slug"
