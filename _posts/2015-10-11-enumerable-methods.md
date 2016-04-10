@@ -5,9 +5,9 @@ title: "Enumer-whats?"
 
 Enumerables! it means that you're able to count something one at a time. they're sometimes referred as ruby's most useful module (a bunch of methods packaged together)! arrays and hashes are really powerful, but more so because of they can get mixed in with enumerable methods. this adheres to the dry ("don't repeat yourself") principle; once methods are included in enumerable and included in array and hash classes, you can use those methods whenever you use collections (arrays and hashes)!
 
-once you're familiar with [arrays and hashes](arrays-hashes.html), you'll be sure to use the `each` method. this method allows you to go through each element in a collection. it's really useful for doing something to a big list for instance. the `each` method is fundamental to enumerables; it allows enumerable methods to iterate through a collection and change the data.
+Once you're familiar with [arrays and hashes](/arrays-hashes), you'll be sure to use the `each` method. this method allows you to go through each element in a collection. it's really useful for doing something to a big list for instance. the `each` method is fundamental to enumerables; it allows enumerable methods to iterate through a collection and change the data.
 
-all enumerables utilize `each` to build up other methods like `map`. these are some of the most used enumerable methods. here's what they can do.
+All enumerables utilize `each` to build up other methods like `map`. these are some of the most used enumerable methods. here's what they can do.
 
 ```ruby
 # Printing out each number in an array of low numbers in Ruby:
