@@ -1,33 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-      <meta charset="utf-8">
-      <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Noto+Sans'>
-      <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css">
-      <link rel="stylesheet" type="text/css" href="stylesheets/default.css">
-      <link rel="stylesheet" type="text/css" href="stylesheets/blog.css">
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
-      <title>DijonKitchen: Hacking a Hacker</title>
-  </head>
-
-  <body class="bg-beige font-sans font-gray sd-font txt-ctr">
-
-    <header>
-      <h1 class="sm-margin">Di<span class="undl">jon</span>Kit<span class="undl">chen</span></h1>
-      <h2 class="no-margin">Hacking a Hacker</h2>
-      <img src="assets/face.png" alt="face" class="round">
-    </header>
-
-    <nav>
-      <ul>
-        <li><a href=".">Home</a></li>
-        <li><a href="/phase-0">Projects</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
-    </nav>
-
-    <article class="txt-left">
+---
+layout: post
+title: "Why I Chose a Jekyll Blog on GitHub Pages"
+---
       <h3>Concurrency, Functional Programming, and Type Safety</h3>
 
       <p>
