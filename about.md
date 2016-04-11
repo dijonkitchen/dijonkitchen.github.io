@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 Keeping in touch with memories using the autobiography tools of the future (blogs)!
 
