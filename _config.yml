@@ -14,8 +14,13 @@ url: "https://dijonkitchen.github.io/" # the base hostname & protocol for your s
 twitter_username: dijonkitchen
 github_username: dijonkitchen
 
+# Plugins
+gems: jekyll-paginate
+
 # Build settings
 markdown: kramdown
 
 # Outputting
 permalink: "/:slug"
+paginate: 5
+paginate_path: "/page:num"
