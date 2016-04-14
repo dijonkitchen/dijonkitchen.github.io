@@ -14,15 +14,15 @@ Please report unacceptable behavior.
 
 * Open a new pull request with the patch.
 
-* Ensure the [pull request](/pull/new) description clearly describes the problem and solution. Include the relevant issue number if applicable.
+* Ensure the [pull request](./pull/new) description clearly describes the problem and solution. Include the relevant issue number if applicable.
 
 * Please read the [Contributing to Ruby on Rails](http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html) guide to know more about coding conventions and benchmarks.
 
 ### Bugs?
 
-* **Ensure the bug was not already reported** by searching under [Issues](/issues).
+* **Ensure the bug was not already reported** by searching under [Issues](./issues).
 
-* If you're unable to find an open issue addressing the problem, [open a new one](/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+* If you're unable to find an open issue addressing the problem, [open a new one](./issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 * If possible, use the relevant bug report templates to create the issue. Simply copy the content of the appropriate file, make the necessary changes to demonstrate the issue, and **paste the content into the issue description**.
 
