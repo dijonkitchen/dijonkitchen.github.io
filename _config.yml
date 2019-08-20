@@ -15,7 +15,7 @@ twitter_username: dijonkitchen
 github_username: dijonkitchen
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
