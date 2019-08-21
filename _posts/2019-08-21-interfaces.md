@@ -16,3 +16,9 @@ MVC pattern: [Many] Views/Routes to [Many] Models
 API Gateways/GraphQL: Many clients to many servers/services
 
 User interface: Many users to many requests
+
+## Apple and Conway's Law
+
+Secrecy between groups to maintain SOLID principles
+
+Forced by group dynamic to dynamic, modular, abstract services
