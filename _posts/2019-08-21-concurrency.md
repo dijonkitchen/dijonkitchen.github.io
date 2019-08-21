@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concurrency, Functional Programming, and Type Safety"
+title: "concurrency"
 ---
 
 While thinking about my move into technology and learning programming, I researched programming languages a lot! One of the major reasons for this was because I looked into concurrency.
