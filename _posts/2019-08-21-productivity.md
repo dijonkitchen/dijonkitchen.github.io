@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sleep, community, health, happiness, wealth"
+title: productivity
 ---
 
 Eat and cleanup before sundown,

@@ -5,17 +5,15 @@ A Jekyll blog
 
 ## Installation
 
-https://jekyllrb.com/docs/installation/macos/
+https://jekyllrb.com/docs/installation/
 
 ```
-brew install ruby
 gem install bundler
 bundle install
 ```
 
 ## Usage
 
-https://jekyllrb.com/docs/usage/
 https://jekyllrb.com/docs/
 
 ```
