@@ -20,3 +20,7 @@ By default, repositories on GitHub are public and thus anyone can look at them a
 So go forth, check out GitHub, and contribute to some cool projects!
 
 [Git]: https://en.wikipedia.org/wiki/Git_(software)
+
+Get better code reviews
+Git committing
+Version control and showing your thoughts
