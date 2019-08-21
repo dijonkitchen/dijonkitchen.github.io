@@ -20,3 +20,5 @@ Anything you can (or would want to) learn about me can be found via my social me
 https://www.martinfowler.com/bliki/WhatIsaBliki.html
 
 See also [bliki](/bliki)
+
+Controlled, centralized(Trello, Medium, Notes, Docs, etc) network of thoughts. 
