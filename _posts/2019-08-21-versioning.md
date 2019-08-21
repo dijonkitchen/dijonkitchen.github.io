@@ -3,8 +3,6 @@ layout: post
 title: versioning
 ---
 
-My week at Dev Bootcamp's Phase 0 has begun! Part of it has been to utilize the command line to make a blog on GitHub and write some technical posts. This post will be on versioning software with Git!
-
 I've been a huge fan of versioning for many years now. It all started when I was still in the business world and everyone traded documents and spreadsheets via email or at most on the network. One quarter, we had a major deliverable with an old spreadsheet that had a ton of links to other files and was handled by several people. Unfortunately, this quarter, it got corrupted one way or another... and we didn't version!
 
 We learned our lesson from that point forward. It was no fun redoing all our changes on an old file with changes all over the place. From that point on my manager and I always insisted that every file be versioned, especially if we were working with others. We did it in a fairly simple fashion by just adding V1, V2, V3, etc. after it. It allowed us to go back to a previous version if something went wrong. This can work for software too, but it's not as elegant as Git.
