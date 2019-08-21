@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software Versioning"
+title: versioning
 ---
 
 My week at Dev Bootcamp's Phase 0 has begun! Part of it has been to utilize the command line to make a blog on GitHub and write some technical posts. This post will be on versioning software with Git!
