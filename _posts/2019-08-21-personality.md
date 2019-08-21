@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning and Thinking Style"
+title: personality
 ---
 
 One of the things I really like about Dev Bootcamp versus others is that they emphasize a lot about the individual and self reflection.
