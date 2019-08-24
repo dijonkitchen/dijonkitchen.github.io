@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "programming languages"
+# Updated date that overrides created file date
+date: 2015-10-25
 ---
 
 I've found the best programming language!

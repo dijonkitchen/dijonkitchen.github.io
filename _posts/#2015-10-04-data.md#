@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "data"
+# Updated date that overrides created file date
+date: 2015-10-04
 ---
 Arrays and hashes are some of the most interesting data types in programming!
 

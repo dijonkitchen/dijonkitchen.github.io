@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "economic ethics"
+# Updated date that overrides created file date
+date: 2018-09-15
 ---
 Capitalism: lie/cheat/steal vs value add
 

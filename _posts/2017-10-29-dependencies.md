@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "dependencies"
+# Updated date that overrides created file date
+date: 2017-10-29
 ---
 
 ## Example: Adding Project Dependencies: Picking a Data Grid for React
