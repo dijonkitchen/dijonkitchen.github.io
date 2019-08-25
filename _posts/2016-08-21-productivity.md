@@ -1,6 +1,8 @@
 ---
 layout: post
 title: productivity
+# Updated date that overrides created file date
+date: 2016-08-18
 ---
 
 Eat and cleanup before sundown,

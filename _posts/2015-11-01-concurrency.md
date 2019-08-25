@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "concurrency"
+# Updated date that overrides created file date
+date: 2015-11-01
 ---
 
 While thinking about my move into technology and learning programming, I researched programming languages a lot! One of the major reasons for this was because I looked into concurrency.

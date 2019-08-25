@@ -1,6 +1,8 @@
 ---
 layout: post
 title: personality
+# Updated date that overrides created file date
+date: 2015-08-18
 ---
 
 One of the things I really like about Dev Bootcamp versus others is that they emphasize a lot about the individual and self reflection.

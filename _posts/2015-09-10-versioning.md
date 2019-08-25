@@ -1,6 +1,8 @@
 ---
 layout: post
 title: versioning
+# Updated date that overrides created file date
+date: 2015-09-10
 ---
 
 I've been a huge fan of versioning for many years now. It all started when I was still in the business world and everyone traded documents and spreadsheets via email or at most on the network. One quarter, we had a major deliverable with an old spreadsheet that had a ton of links to other files and was handled by several people. Unfortunately, this quarter, it got corrupted one way or another... and we didn't version!
