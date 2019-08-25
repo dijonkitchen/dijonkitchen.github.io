@@ -1,6 +1,8 @@
 ---
 layout: page
 title: rationale
+# Updated date that overrides created file date
+date: 2019-08-23
 ---
 
 Cyborg memory is better than the human brain, so this tracks my wonderful adventures in thought and lets me keep in touch with memories using the [autobiography](/me) tools of the future!
