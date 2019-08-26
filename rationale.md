@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: rationale
 # Updated date that overrides created file date
 date: 2019-08-23
