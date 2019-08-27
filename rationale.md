@@ -9,6 +9,8 @@ Cyborg memory is better than the human brain, so this tracks my wonderful advent
 
 Writing helps organize your thoughts in a clear way for your own memories as well as to aid others. But [writing is difficult](https://www.martinfowler.com/bliki/WhatIsaBliki.html) and when it's too important to just throw away in time.
 
+Because of this, there's always the disclaimer as with all web things that this is always under construction and work in progress.
+
 ## Rational persuasion
 
 People should be adjusting their beliefs slowly with bayesian reasoning, so you can't just change their mind in one encounter unless there is something significant. 
@@ -19,7 +21,7 @@ Thus I write. Perchance, I'll attract others that respect this kind of reasoning
 
 This [bliki](/bliki) will help with that along with random musings longer than 140 characters.
 
-## [Slowly] wrangling legacy social media(Twitter, Facebook, Goodreads, Trello, Medium, Notes, Docs, etc)  into a controlled, centralized network of thoughts. 
+## [Slowly] wrangling legacy social media(Twitter, Facebook, Goodreads, Trello, Medium, Keep, Notes, Docs, etc)  into a controlled, centralized network of thoughts. 
 
 The internet is be dark and full of terrors. Companies struggling to survive are gathering as much [data as possible](/privacy) on people to sell or influence them into do things they don't want. We, the people, need a relief from these hyperactive, short-term, consumption-focused lives. Long-form content we make and control (or share) ourselves is really important. 
 
