@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dijonkitchen.github.io
+Token: 54da58cc6c60429c72d3ddd105030ef906e36c6607b8dae630ec40034f5a7cef
