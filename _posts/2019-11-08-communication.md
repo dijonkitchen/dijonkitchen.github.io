@@ -4,10 +4,10 @@ title: communication
 ---
 
 Goals:
-Team succeed at goals
-knowledge transfer
-flow thinking and work
-hi fidelity
+* Team succeed at goals
+* knowledge transfer
+* flow thinking and work
+* hi fidelity
 
 Spectrum of sync to async communication
 
