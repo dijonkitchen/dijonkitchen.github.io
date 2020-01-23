@@ -18,7 +18,12 @@ to focus on long-term projects or those of others, like books.
 
 Using something like 
 [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
-could help if you whitelist only a few good, reputable sites. 
-Even better would be if those were the default for first-time installers. 
+could help if you 
+[whitelist](https://en.wikipedia.org/wiki/Whitelisting)
+only a few good, reputable sites. 
+Even better would be if those were the default for first-time installers;
+maybe it'd be a clone called StayTrue if it was open-sourced.
+
+[//]: # (perhaps insert a starting export config for StayFocusd that does this.)
 
 Stay creative, stay smart. 
