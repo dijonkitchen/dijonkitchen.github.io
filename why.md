@@ -3,6 +3,7 @@ layout: post
 title: why
 # Updated date that overrides created file date
 date: 2020-02-15
+---
 
 Cyborg memory is better than the human brain, so this tracks my wonderful adventures in thought and lets me keep in touch with memories using the [autobiography](/me) tools of the future!
 
