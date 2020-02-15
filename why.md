@@ -1,9 +1,8 @@
 ---
 layout: post
-title: rationale
+title: why
 # Updated date that overrides created file date
-date: 2019-08-23
----
+date: 2020-02-15
 
 Cyborg memory is better than the human brain, so this tracks my wonderful adventures in thought and lets me keep in touch with memories using the [autobiography](/me) tools of the future!
 
@@ -20,6 +19,10 @@ Not much reason to bash your own beliefs into your own head without making much 
 Thus I write. Perchance, I'll attract others that respect this kind of reasoning.
 
 This [bliki](/bliki) will help with that along with random musings longer than 140 characters.
+
+## Prior art
+
+[Zettlekasten/Xanadu/Wiki/Idea books/Story mapping/mental models](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 
 ## [Slowly] wrangling legacy social media(Twitter, Facebook, Goodreads, Trello, Medium, Keep, Notes, Docs, etc)  into a controlled, centralized network of thoughts. 
 
