@@ -52,7 +52,7 @@ Dynamic type vs staticly typed
 
 Once one language has critical mass, 
 it overgrows others 
-from momentum ecosystem network effects.
+from momentum ecosystem network effects (tooling, docs, examples, open-source help).
 It's irrespective of pros/cons.
 Most non-tech companies don't know enough to make good tech decisions,
 so they go with the flow.
