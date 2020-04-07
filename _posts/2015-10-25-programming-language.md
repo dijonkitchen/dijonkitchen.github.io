@@ -42,6 +42,7 @@ Overall, learning a new language was tough at first, but not so bad after you've
 Difficulty -> Ease
 Low-level languages -> high-level languages
 Less people -> More people
+Less conducive to early stage company -> more
 
 High impact for all downstream value vs less, but more specific need
 
