@@ -2,7 +2,7 @@
 layout: post
 title: why
 # Updated date that overrides created file date
-date: 2020-02-15
+date: 2020-04-23
 ---
 
 Cyborg memory is better than the human brain, so this tracks my wonderful adventures in thought and lets me keep in touch with memories using the [autobiography](/me) tools of the future!
@@ -24,6 +24,8 @@ This [bliki](/bliki) will help with that along with random musings longer than 1
 ## Prior art
 
 [Zettlekasten/Xanadu/Wiki/Idea books/Story mapping/mental models](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+
+Commonplace [tiddlywiki](https://github.com/Jermolene/TiddlyWiki5)
 
 ## [Slowly] wrangling legacy social media(Twitter, Facebook, Goodreads, Trello, Medium, Keep, Notes, Docs, etc)  into a controlled, centralized network of thoughts. 
 
