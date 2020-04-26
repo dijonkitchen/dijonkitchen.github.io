@@ -8,7 +8,7 @@
 # Site settings
 title: "Philosophy as a service"
 email:
-description: "bliki for my thoughts"
+description: "Bliki of Jonathan Chen's thoughts"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dijonkitchen.github.io" # the base hostname & protocol for your site
 github_username: dijonkitchen
