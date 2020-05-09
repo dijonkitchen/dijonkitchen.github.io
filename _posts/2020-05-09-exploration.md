@@ -11,7 +11,8 @@ if they are meaningful quantitative measures.
 Decide on a handful
 of quality candidates
 
-Move on after a few "strike outs"
+Move on after a few "strike outs",
+but forgive after some time. 
 
 Keep optionality
 
@@ -25,6 +26,7 @@ Note externalities.
 Optimize for lean feedback cycle
 of learning,
 then stop, 
+and adapt,
 and iterate. 
 
 Inherantly scientific
@@ -37,3 +39,5 @@ but be a reasonable optimist.
 ### References
 
 [Algorithms to Live By](https://openlibrary.org/works/OL17357767W/Algorithms_to_Live_By)
+
+Prisoner's dilemma
