@@ -31,7 +31,8 @@ Inherantly scientific
 and human nature 
 to reach for the stars (Star Trek).
 
-Minimize long-term regret
+Minimize long-term catatrospic loss,
+but be a reasonable optimist. 
 
 ### References
 
