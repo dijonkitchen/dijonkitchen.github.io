@@ -20,6 +20,11 @@ if easy to undo.
 Example: hire quickly, fire quickly.
 Note externalities.
 
+Optimize for lean feedback cycle
+of learning,
+then stop, 
+and iterate. 
+
 ### References
 
 [Algorithms to Live By](https://openlibrary.org/works/OL17357767W/Algorithms_to_Live_By)
