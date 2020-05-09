@@ -11,6 +11,8 @@ if they are meaningful quantitative measures.
 Decide on a handful
 of quality candidates
 
+Move on after a few "strike outs"
+
 Keep optionality
 
 May even be best 
@@ -28,6 +30,8 @@ and iterate.
 Inherantly scientific
 and human nature 
 to reach for the stars (Star Trek).
+
+Minimize long-term regret
 
 ### References
 
