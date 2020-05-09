@@ -25,6 +25,10 @@ of learning,
 then stop, 
 and iterate. 
 
+Inherantly scientific
+and human nature 
+to reach for the stars (Star Trek).
+
 ### References
 
 [Algorithms to Live By](https://openlibrary.org/works/OL17357767W/Algorithms_to_Live_By)
