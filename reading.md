@@ -1,6 +1,6 @@
 ---
 layout: page
-title: why
+title: reading
 ---
 
 [https://www.goodreads.com/user/show/78129335-j-c](https://www.goodreads.com/user/show/78129335-j-c)
