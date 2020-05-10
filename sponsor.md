@@ -3,8 +3,10 @@ layout: page
 title: sponsor
 ---
 
-https://github.com/sponsors/dijonkitchen
+[Sustainable subscription](https://www.patreon.com/user?u=34485675)
 
-https://www.patreon.com/user?u=34485675
+[GitHub Sponsors](https://github.com/sponsors/dijonkitchen) while GitHub doubles sponsorship money
 
-https://dijonkitchen.substack.com/
+[Substack](https://dijonkitchen.substack.com/)
+
+Bitcoin address: `1H3pbH3GhXSBxrwGKUaKznsordGgLkGtGg`
