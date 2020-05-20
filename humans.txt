@@ -1,7 +1,9 @@
 /* TEAM */
-	Chef:   Jonathan Chen
-	GitHub: @dijonkitchen
-	From:   Oakland, CA, USA	
+	Chef:     Jonathan Chen
+	From:     Oakland, CA, USA
+	GitHub:   @dijonkitchen
+	LinkedIn: jonathanschen
+	
 
 /* SITE && THANKS */
 	Last update: 2020-05-20
