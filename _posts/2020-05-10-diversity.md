@@ -45,3 +45,7 @@ even if it'd be really interesting.
 Take some time to explore it,
 and open your mind,
 but don't only [explore](/exploration). 
+
+### See also
+
+* 30x500 idea and [freedom](/freedom)
