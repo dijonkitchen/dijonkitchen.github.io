@@ -10,9 +10,7 @@ title: "Philosophy as a service"
 email:
 description: "Bliki of Jonathan Chen's thoughts"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dijonkitchen.github.io" # the base hostname & protocol for your site
-github_username: dijonkitchen
-linkedin_username: jonathanschen
+url: "https://www.dijonkitchen.org" # the base hostname & protocol for your site
 
 # Plugins
 plugins:
