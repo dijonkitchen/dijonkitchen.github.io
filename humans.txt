@@ -1,12 +1,13 @@
 /* TEAM */
-	Chef: Jonathan Chen
-  GitHub: @dijonkitchen
-	From: Oakland, CA, USA	
+	Chef:   Jonathan Chen
+	GitHub: @dijonkitchen
+	From:   Oakland, CA, USA	
 
-/* SITE */
+/* SITE && THANKS */
 	Last update: 2020-05-20
-	Language: English
-	Standards: HTML5, CSS3
-  Components: Good ole GitHub Pages, Jekyll, http://humanstxt.org/
-	Software: Spacemacs
-  Hardware: Apple
+	Language:    English
+	DOCTYPE:     HTML5
+	Standards:   HTML5, CSS3
+	Components:  Good ole GitHub Pages, Jekyll, http://humanstxt.org/
+	Software:    Spacemacs
+	Hardware:    Apple
