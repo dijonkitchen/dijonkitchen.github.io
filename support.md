@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sponsor
+title: support
 ---
 
 [Sustainable subscription](https://www.patreon.com/user?u=34485675)
