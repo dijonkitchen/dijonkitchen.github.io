@@ -2,11 +2,19 @@
 layout: post
 title: diversity
 # Updated date that overrides created file date
-date: 2020-05-10
+date: 2020-05-23
 ---
 
-I read a lot online. 
+From supermarkets to artists and musicians, 
+there are so many things good and bad;
+so many different styles and admirers.
 
+They may have no choice 
+but to do what makes sense to them.
+Maybe others are also interested 
+in their creations.
+
+I read a lot online. 
 When I come across people's blogs
 or social media, 
 I checkout a sampling of their work
@@ -42,10 +50,22 @@ it's harder to see things across time
 unless you dig into [the commit history](https://github.com/dijonkitchen/dijonkitchen.github.io/commits/master)). 
 You can't read it all,
 even if it'd be really interesting. 
+
+This expanse of diversity 
+can be overwhelming. 
+Or you can embrace the [freedom](/freedom).
 Take some time to explore it,
 and open your mind,
 but don't only [explore](/exploration). 
 
+collaboration to expand outreach
+
+regular creations for mindshare
+
+true human connection and story telling
+
+random chance and creation
+
 ### See also
 
-* 30x500 idea and [freedom](/freedom)
+* [30x500 idea](https://30x500.com/academy/)
