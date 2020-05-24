@@ -2,7 +2,7 @@
 layout: post
 title: diversity
 # Updated date that overrides created file date
-date: 2020-05-23
+date: 2020-05-24
 ---
 
 From supermarkets to artists and musicians, 
@@ -54,9 +54,10 @@ even if it'd be really interesting.
 This expanse of diversity 
 can be overwhelming. 
 Or you can embrace the [freedom](/freedom).
-Take some time to explore it,
-and open your mind,
-but don't only [explore](/exploration). 
+Perhaps [explore](/exploration) the cutting edge 
+for easier problems others aren't looking at yet. 
+No more unique a cutting edge than 
+the intersection of disciplines. 
 
 collaboration to expand outreach
 
