@@ -38,6 +38,5 @@ but be a reasonable optimist.
 
 ### References
 
-[Algorithms to Live By](https://openlibrary.org/works/OL17357767W/Algorithms_to_Live_By)
-
-Prisoner's dilemma
+* [Algorithms to Live By](https://openlibrary.org/works/OL17357767W/Algorithms_to_Live_By)
+* Prisoner's dilemma
