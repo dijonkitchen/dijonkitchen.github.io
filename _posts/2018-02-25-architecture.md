@@ -12,7 +12,7 @@ date: 2019-12-31
 
 ## Exploration: Initial [simple, lovable, complete](https://blog.asmartbear.com/slc.html) product
 * Use tools that are easy and familiar to validate early ideas
-  * (But consider long-term consequences of not using [simple](https://www.youtube.com/watch?v=rI8tNMsozo0) ones
+  * (But consider long-term consequences of not using [simple](https://www.youtube.com/watch?v=rI8tNMsozo0) ones)
 * Examine data model for relationships
   * Traditional RDBMS if relational data, where referential integrity is important
     * PostgreSQL
@@ -22,20 +22,19 @@ date: 2019-12-31
       * Battle-tested reliability, community, performance
   * NoSQL when horizontal scaling is paramount and eventual consistency is sufficient
   * Graph databases for graph-like data
-* Mono-repo monolith
+* [Mono-repo](http://danluu.com/monorepo/) monolith
   * Minimal cognitive load for new, smaller codebase
-  * http://danluu.com/monorepo/
 * Established fully-featured framework (e.g., [Luminus](https://luminusweb.com), Next.js, Ruby on Rails, Django, etc.)
   * Quick setup
   * Conventions over configuration
     * Minimal bikeshedding, analysis paralysis
   * Community of libraries/add-ons
-  * 12factor principles
+  * [12factor](https://12factor.net) principles
   * Server-side rendering
   * Integrated data binding
   * Migration generation
   * Documented schema
-* Bulma CSS to Bootstrap basics
+* [Bulma CSS](https://bulma.io) to Bootstrap basics
 * PaaS infrastructure to minimize reliability issues and management (e.g., Heroku)
 * Use other services to ramp up quickly
   * E.g., Auth0
