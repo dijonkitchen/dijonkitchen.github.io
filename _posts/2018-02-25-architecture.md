@@ -2,21 +2,30 @@
 layout: post
 title: architecture
 # Updated date that overrides created file date
-date: 2018-02-26
+date: 2019-12-31
 ---
 
 # Architecture scaling and lifecycle
 
-## Exploration: Initial minimum viable product
+* Validate ideas first with mocks and ads to gauge interest and gather data
+* Refine idea with first few hardcore fans to iterate on
+
+## Exploration: Initial [simple, lovable, complete](https://blog.asmartbear.com/slc.html) product
+* Use tools that are easy and familiar to validate early ideas
+  * (But consider long-term consequences of not using [simple](https://www.youtube.com/watch?v=rI8tNMsozo0) ones
 * Examine data model for relationships
-  * Postgresql
-    * Heroku integration
-    * Free, open-source
-    * Good optimizations
-    * Battle-tested reliability, community, performance
-* Mono-repo 
+  * Traditional RDBMS if relational data, where referential integrity is important
+    * PostgreSQL
+      * Heroku integration
+      * Free, open-source
+      * Good optimizations
+      * Battle-tested reliability, community, performance
+  * NoSQL when horizontal scaling is paramount and eventual consistency is sufficient
+  * Graph databases for graph-like data
+* Mono-repo monolith
   * Minimal cognitive load for new, smaller codebase
-* Established fully-featured framework (e.g., Ruby on Rails, Django, etc.)
+  * http://danluu.com/monorepo/
+* Established fully-featured framework (e.g., [Luminus](https://luminusweb.com), Next.js, Ruby on Rails, Django, etc.)
   * Quick setup
   * Conventions over configuration
     * Minimal bikeshedding, analysis paralysis
@@ -26,32 +35,32 @@ date: 2018-02-26
   * Integrated data binding
   * Migration generation
   * Documented schema
-* Bootstrap CSS
-* Established testing frameworks (e.g., RSpec, Capybara, Jest, etc.)
-  * Unit testing
+* Bulma CSS to Bootstrap basics
+* PaaS infrastructure to minimize reliability issues and management (e.g., Heroku)
+* Use other services to ramp up quickly
+  * E.g., Auth0
+* Test business value feedback loop as quick as possible
+* Mobile-first, responsive web apps
+
+## Expansion: Proven founder-product-market fit
+* More custom SQL instead of with ORMs
+  * Database views for security
+* Established testing frameworks (e.g., clojure.test, Jest, RSpec, Capybara, etc.)
+  * Many Unit tests
+  * A few system, end-to-end tests of core functionality
   * Test-driven development
     * Inexpensive adaptability
     * High test coverage
     * Simple tests
     * Model domain a simple as possible
     * Minimize premature optimization
-* PaaS infrastructure to minimize reliability issues and management
-* Use other services to ramp up quickly
-  * E.g., Auth0
-* Test business value feedback loop as quick as possible
-* Mobile-first, responsive web apps
-
-## Expansion: Proven product-market fit
-* More custom SQL instead of with ORMs
-  * Database views for security
-* Full-stack Javascript
-  * Less context-switching
-  * Large community
-    * Developers
-    * Packages
-* Seperate out back-end and front-end for independent scaling
-* Pull out microservices as appropriate
-* Auto-scaling via Cloud infrastructure (e.g., AWS, etc.)
+* Break off a few major services that are fundamentally separate
+  * Explore other technologies outside of [The Citadel](https://m.signalvnoise.com/the-majestic-monolith-can-become-the-citadel/)
+    * Lower-level for performance
+    * Larger community for hireability and tooling
+    * Types for easing larger scale refactoring
+    * Typescript/Golang?
+* Auto-scaling via Cloud infrastructure (e.g., AWS, Google Cloud, etc.)
 * API Gateway
   * Single domain for API
   * Let outside developers interface with back-end
@@ -61,42 +70,15 @@ date: 2018-02-26
 * CDN front-end
 * Feature flagging for testing in production
 * More, stronger testing
-  * Integration tests
-  * System tests
-* Ember
-  * Conventions
-* React [Native] front-ends for complex components gradually on DOM
-  * JS everywhere
-  * "learn once, use everywhere"
-  * Design-auditable JSX
-  * Redux state management
-  * Functional programming
-    * Easier understandability
-      * Less reassignment and side effects
-* A/B Testing
-* Progressive web app
-  * Service workers
-    * Caching
-  * Offline-first reliability
-  * Optimize loading above the fold and time to first action
+* A/B Testing with a lot of data to optimize key metrics
 
 ## Extraction: Proven high, continual use
-* All polyglot, FaaS back-end (e.g., AWS Lambda, Google Functions)
-  * Focused, simple functions
-  * Auto-scaling more granularly given higher throughput
-  * Closer to the metal for performance optimization
+* Dedicated specialists
+* Go to the metal or create your own metal if performance is needed
+  * Rust
+  * Apple Silicon
 * Consider building own, custom infrastructure
   * For business-specific problems
-* Clojure/Clojurescript 
-  * Google Closure Compiler optimization
-  * Leverage existing libraries on JVM and JS
-  * Tree shaking
-  * Dead code elimination
-  * More abstraction
-  * Concurrency
-* Datomic
-  * Database time travel
-* Dedicated site reliability engineering team
 * Native front-ends
   * iOS/Android
-  * Vanilla JS, less libraries  
+  * Vanilla JS, less libraries
