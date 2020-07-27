@@ -6,7 +6,7 @@ title: all
 <section class="home">
 
   <ul class="post-list">
-    {% for post in site.posts.sort_by {|post| post.title} %}
+    {% for post in site.posts | sort: 'title' %}
       <li>
         <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
