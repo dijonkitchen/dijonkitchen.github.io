@@ -2,7 +2,7 @@
 layout: post
 title: architecture
 # Updated date that overrides created file date
-date: 2019-12-31
+date: 2020-07-26
 ---
 
 # Architecture scaling and lifecycle
