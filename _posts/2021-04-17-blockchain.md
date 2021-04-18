@@ -23,7 +23,7 @@ blockchain machine learning with all the auditable, anonymous data and compute.
 
 Virtual worlds, with eSports and more.
 Iterate toward global governance bootstrapping (Yunah)
-Aligning influence and ownership
+Aligning influence, ownership, and identity/authentication
 Coordinated effort to slow/reverse adverse climate change
 
 Decentralized, aligned cities/countries/economy (internet unions)
