@@ -21,6 +21,7 @@ Correct wrongs with delegated consensus.
 Crypto internet computer
 blockchain machine learning with all the auditable, anonymous data and compute.
 
+Virtual worlds, with eSports and more.
 Iterate toward global governance bootstrapping (Yunah)
 Aligning influence and ownership
 Coordinated effort to slow/reverse adverse climate change
