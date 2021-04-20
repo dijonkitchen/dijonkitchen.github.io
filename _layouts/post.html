@@ -12,6 +12,11 @@ layout: default
               itemprop="datePublished">
            Updated: {{ page.date | date: "1%Y-%m-%d" }}
         </time>
+        {% if page.confidence %}
+        <span itemscope>
+            <span>Confidence: {{ page.confidence }}</span>
+        </span>
+        {% endif %}
         {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span itemprop="name">{{ page.author }}</span>
