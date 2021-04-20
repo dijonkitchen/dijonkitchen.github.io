@@ -40,12 +40,19 @@ from something potentially managed better than corruption/ignorance.
 Fragmentation risk with blockchain overload
 Multi-currency interoperation (virtual and physical)
 
+Constant or fixed inflation rate of currency 
+may mean that it's difficult to adjust monetary supply 
+for economic factors. 
+(a la Euro or any large, diverse country with inequity/disparity?)
+
 Store of value is small usecase. 
 Still fiat trust in core developers and risk of bugs or collusion. 
 Open source allows anyone to audit, but also very difficult given technical complexity. 
 
 Art has long-term potential 
 as endless runway of human creation when necessities are met.
+Maybe not much use for money in such a utopia. 
+But existing market is small relative to other factors. 
 
 Maximum value something greater than global GDP
 with additional attributed to 
