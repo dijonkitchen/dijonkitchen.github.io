@@ -2,7 +2,7 @@
 layout: post
 title: blockchain
 # Updated date that overrides created file date
-date: 2021-04-17
+date: 2021-04-28
 confidence: 60%
 ---
 
@@ -33,6 +33,13 @@ Can't stop distributed ideas and people,
 especially the younger future.
 Nearly anyone can create and participate in tokens or initial coin offerings,
 not just the accredited wealthy. 
+
+History of decentralization
+from empires, 
+to countries,
+to cities,
+to companies,
+to individuals.
 
 Under-managed geographic countries have most to gain
 from something potentially managed better than corruption/ignorance.
