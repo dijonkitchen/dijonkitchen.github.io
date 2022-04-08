@@ -6,7 +6,7 @@ These are a set of guidelines, not rules, for contributing to this project. Use 
 
 ### Code of Conduct
 
-By participating, you are expected to uphold the Contributor Covenant [code of conduct](http://contributor-covenant.org/).
+By participating, you are expected to uphold the Contributor Covenant [code of conduct](https://www.contributor-covenant.org/).
 
 Please report unacceptable behavior.
 
@@ -16,7 +16,7 @@ Please report unacceptable behavior.
 
 * Ensure the [pull request](../../pull/new) description clearly describes the problem and solution. Include the relevant issue number if applicable.
 
-* Please read the [Contributing to Ruby on Rails](http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html) guide to know more about coding conventions and benchmarks.
+* Please read the [Contributing to Ruby on Rails](https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html) guide to know more about coding conventions and benchmarks.
 
 ### Bugs?
 
@@ -26,7 +26,7 @@ Please report unacceptable behavior.
 
 * If possible, use the relevant bug report templates to create the issue. Simply copy the content of the appropriate file, make the necessary changes to demonstrate the issue, and **paste the content into the issue description**.
 
-* For more detailed information on submitting a bug report and creating an issue, visit these [reporting guidelines](http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#reporting-an-issue).
+* For more detailed information on submitting a bug report and creating an issue, visit these [reporting guidelines](https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html#reporting-an-issue).
 
 ### Ideas?
 

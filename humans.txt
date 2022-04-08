@@ -10,6 +10,6 @@
 	Language:    English
 	DOCTYPE:     HTML5
 	Standards:   HTML5, CSS3
-	Components:  Good ole GitHub Pages, Jekyll, http://humanstxt.org/
+	Components:  Good ole GitHub Pages, Jekyll, https://humanstxt.org/
 	Software:    Spacemacs
 	Hardware:    Apple

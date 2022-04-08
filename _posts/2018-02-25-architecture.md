@@ -22,7 +22,7 @@ date: 2020-07-26
       * Battle-tested reliability, community, performance
   * NoSQL when horizontal scaling is paramount and eventual consistency is sufficient
   * Graph databases for graph-like data
-* [Mono-repo](http://danluu.com/monorepo/) monolith
+* [Mono-repo](https://danluu.com/monorepo/) monolith
   * Minimal cognitive load for new, smaller codebase
 * Established fully-featured framework (e.g., [Luminus](https://luminusweb.com), Next.js, Ruby on Rails, Django, etc.)
   * Quick setup
