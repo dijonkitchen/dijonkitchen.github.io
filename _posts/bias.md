@@ -1,0 +1,19 @@
+---
+layout: post
+created_on: 2015-10-25
+title: "bias"
+# Updated date that overrides created file date
+updated_on: 2015-10-25
+---
+
+Stereotype threat is the topic of this week's DBC cultural discussion. Stereotype threat is how someone's performance is affected by stereotypes that they may classify themselves under. The "threat" part is the underperformance due to negative stereotypes, but overperformance from positive stereotypes are possible under stereotype lift.
+
+The idea is that even when many factors are controlled for, people with similar performance do worse when under stress that they may be subject to a negative stereotype. This can affect anyone from any race or sex.
+
+Being an asian american, the classic stereotype was that asians were better at math than others. I can't tell how this has affected me, if at all, since I've always been good, but not great at math. I do know fellow asians that were women that would often say things like, "I'm a girl, so I must be bad at math." This is based on a lot of different statistical studies over the years, but that does not mean it is true for each person. Just because the average height of men is higher than women, does not mean a woman can't be taller than a man!
+
+One of the worst parts of stereotype threat is that even great performers will be threatened by it when in more extreme situations. An excellent math student, that happens to be a black woman, might feel they are verifying a stereotype if they are struggling with an exam. Just the fact that they second guess themselves and waste time thinking about things not relevant to the exam make them do worse. This self-fulfilling prophecy has been shown to be much more powerful than other factors of a person's performance.
+
+Some ways to counter stereotype threat is to know it exists and to understand that it's effecting you. Once you know it, it'll be less powerful a bias. There are also societal things like affirmative action that allow for more diversity so that people can see examples of others that have broken through stereotypes.
+
+[//]: # (Stereotype threat, nature vs nurture, competition and performance, competition making others worse, rather than self better, growth mindset, grit, overcoming bias, Buffett and women, ovarian lottery, affirmative action, actively countering bias, feedback loops, startup efficiency, working with people similar to yourself, self-fulfilling prophecy)
