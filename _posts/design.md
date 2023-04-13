@@ -1,0 +1,100 @@
+---
+layout: post
+created_on: 2020-05-11
+title: design
+# Updated date that overrides created file date
+updated_on: 2020-05-11
+---
+
+Design things to be simple,
+but no simpler. 
+
+Simple is easy to understand
+and then only expand when necessary. 
+Sometimes that's with a generalized abstraction
+that can easily be used;
+other times,
+it's a simple rewrite
+or refactor
+because there's so little code 
+that needs to be changed.
+
+0. Simply a text file?
+0. +custom HTML?
+0. +custom CSS?
+0. +plain Javascript?
+0. A simple script?
+0. Embedded client-side script code?
+0. A server?
+0. +cloud computing?
+0. A framework?
+0. A public web API?
+0. Full, client-side single-page app?
+0. State management vs stateless
+0. Distributed vs centralized
+0. Memory management
+0. Static typing
+0. Tests!?
+0. A language many people know vs one few do, or can understand and wield
+
+Most things that have existed
+existed with old technology. 
+Is this new creation
+that novel that it _requires_ new technology?
+
+Do you really need an API
+if there are no public clients?
+
+Does a dynamic single-page app framework 
+need to be used for everything
+or just a few parts?
+
+Are you letting the sexiness 
+of something new and shiny
+outweight the needs of the business domain?
+Something that pays the bills?
+
+Be efficient
+and spend some time on the [hammock](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)
+to think about what the real requirements are, 
+even with a bit of extensibility,
+before expending a bunch of money
+and effort. 
+You'll be leaner for it 
+and maybe self-sustainable too. 
+
+There's something to be said
+for Facebook's philosophy on
+never forcing tools on developers,
+but instead to make it so easy 
+for them to use,
+that they migrate.
+E.g., React, JSX, Flow, Reason, Hack, etc.
+
+But that can become 
+a Frankenstein monster 
+to outsiders eventually. 
+E.g., JVM interoperability, multi-paradigm languages. 
+Perhaps these new things 
+offer good abilities, 
+but do not enforce 
+one successful convention that
+everyone gravitates towards. 
+The lowest common denominator
+of worst practices,
+if allowed,
+can and will happen. 
+
+Related to maybe only moving 
+a little ahead of the herd 
+of [programming languages](/programming-language).
+
+## References
+
+* [https://macwright.org/2020/05/10/spa-fatigue.html](https://macwright.org/2020/05/10/spa-fatigue.html)
+* [https://www.executeprogram.com/blog/are-tests-necessary-in-typescript](https://www.executeprogram.com/blog/are-tests-necessary-in-typescript)
+* [https://usefathom.com/blog/moved-to-vapor](https://usefathom.com/blog/moved-to-vapor)
+* [https://blog.codinghorror.com/falling-into-the-pit-of-success/](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
+* [https://rubyonrails.org/doctrine/](https://rubyonrails.org/doctrine/)
+* [https://m.signalvnoise.com/the-majestic-monolith-can-become-the-citadel/](https://m.signalvnoise.com/the-majestic-monolith-can-become-the-citadel/)
+* [Unshipping and minimizing dependencies](https://jmduke.com/2020/01/20/unshipping-webpack)

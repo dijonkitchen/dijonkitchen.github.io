@@ -1,0 +1,97 @@
+---
+layout: post
+created_on: 2020-03-13
+title: vision
+# Updated date that overrides created file date
+updated_on: 2020-03-15
+---
+
+Don't optimize for things that don't matter. 
+Intermediate milestones/goals may be too limiting
+(but can also be rewarding).
+Cutting straight to the bottom line
+may streamline all those other actions 
+for what really matters. 
+You still need to figure out what really matters though.
+
+This [process](./process)
+may squeeze out all creativity
+for the intermediate things,
+but allow for creativity to grow
+for the desired vision. 
+
+## Reading 
+
+Does it matter to read as an author intended?
+Or is it better to breeze through it
+and capture the core ideas
+and only then,
+if it sparks some foundational principle,
+perhaps,
+read more times, 
+slowly. 
+Otherwise,
+there are so many [other things you can do](https://en.wikipedia.org/wiki/Opportunity_cost)
+that might be better. 
+Start at one page per minute
+and then increase from there?
+
+This kind of strategy
+allows for deeper dives
+into various subjects. 
+You no longer need to
+figure out what book is the best on something;
+read a bunch, 
+and decide for yourself 
+(from primary sources no less)!
+
+## Career/technology/tools
+
+Optimizing for great tools may not be ideal
+if it is not progressing your end goal
+of delighting people with some product. 
+These may, unfortunately, 
+be the sacrifices you must make 
+for what you think is principally important. 
+
+Best practices and tools may help 
+do things more efficiently later on,
+but they come with costs:
+initial ramp-up time
+for creating and/or learning those tools, 
+figuring out if an idea is even viable. 
+That valuable time can be spent 
+[Pretotyping](https://www.pretotyping.org/). 
+
+Things that stick
+can be optimized by those that care
+or are better at it. 
+You need to think about what matters to you;
+what do you what to improve on. 
+
+Little, insignificant things are like tiny cuts
+that can lead to death by a thousand cuts
+(or at least not acheiving what you want).
+
+## Life
+
+A person's life is an [infinite game](https://fs.blog/2020/02/finite-and-infinite-games-two-ways-to-play-the-game-of-life/);
+a game so long, 
+you likely don't stop playing 
+until you're dead.
+For a game this long and variable,
+you can't really maximize anything;
+there are too many surprises ahead.
+What you may be able to do is
+have a lot of fun exploring
+different areas. 
+
+Leave a good legacy and minimize regret. 
+With this vision in mind,
+you can work wherever,
+as long as you're exploring new creative skills
+and sharing the fun with others. 
+
+You'll be remembered for your efforts,
+not your failures,
+and all the infectious fun. 

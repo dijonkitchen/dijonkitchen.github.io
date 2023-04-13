@@ -1,0 +1,16 @@
+---
+layout: post
+created_on: 2015-05-26
+title: hack
+# Updated date that overrides created file date
+updated_on: 2015-05-26
+---
+
+Journey toward becoming a scientist, but more specifically a software hacker that utilizes the scientific method. 
+
+1. **O**bserve inefficiencies
+2. **H**ypothesize solutions
+3. **P**redict outcomes
+4. **E**xperiment with prototypes
+5. **A**nalyze outcomes
+6. **R**efine and repeat many times

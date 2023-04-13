@@ -1,0 +1,50 @@
+---
+layout: post
+created_on: 2015-10-04
+title: "data"
+# Updated date that overrides created file date
+updated_on: 2015-10-04
+---
+Arrays and hashes are some of the most interesting data types in programming!
+
+Arrays are basically an ordered list of items. These items can be anything, even another array! Arrays are usefulwhen you have something that's sequential so you can say the first things is this, the second thing is that, and so on. You can then easily say give me the 6th through 10th items and know that there's some order to them. An example of this would be for a list of people that signed up for a concert. You can easily say first come, first serve, so the first 100 people's names are in an array and they get to attend the concert. Everyone else is not allowed!
+
+```ruby
+# This is how you use an array in Ruby:
+party_array = ['Jon', 'Carmen', 'Elaine', 'Theo']
+
+# You can reference a specific spot by doing this:
+party_array[0] # This is the 'zeroth' item which is the 'first' aka 'Jon'
+
+# Add an item like so:
+party_array[5] = 'Jim'
+
+# Now the party list looks like this:
+['Jon', 'Carmen', 'Elaine', 'Theo', 'Jim']
+```
+
+Hashes are very similar to arrays. The main difference is that they aren't in any special order. Hashes are key-value pairs of items, where the key is required to be unique. The beauty here, is that those keys can be anything as long as there isn't a repeat. This data type is great for dictionaries. Each word is unique and would have some definition. Some words may have the same definition, but you wouldn't have two of the same words in the dictionary right?! That'd be unnecessary!
+
+```ruby
+# This is how you use an hash in Ruby:
+state_dictionary_hash = {
+  "NJ" => "New Jersey",
+  "NY" => "New York",
+  "CA" => "California",
+}
+
+# You can reference a specific spot by doing this:
+state_dictionary_hash["NJ"]
+
+# Add an item like so:
+state_dictionary_hash["PA"] = "Pennsylvania"
+
+# Now the state dictionary list looks like this:
+{
+  "NJ" => "New Jersey",
+  "NY" => "New York",
+  "CA" => "California",
+}
+```
+
+I hope you found these data types interesting! There's a lot more you can do with them!

@@ -1,0 +1,60 @@
+---
+layout: post
+created_on: 2015-10-19
+title: classes
+# Updated date that overrides created file date
+updated_on: 2015-10-19
+---
+
+An interesting thing about object-oriented programming is that everything is an object and objects inherit characteristics from their parents and pass them on to their children. By organizing a set of objects this way, you can classify similar objects as well.
+
+Let's look at an example of this in the real world. You could look at cars, animals, video games, or whatever you want. We'll examine schools!
+
+So there are a ton of different schools: Preschool, Kindergarten, Elementary School, High School, College, Business School, Dev Bootcamp, you get the picture. Each one of these could be part of the `Class School` and inherit the things in common between all schools like a name, students, teachers, subjects, classes, etc. Similarly, Schools in general can be part of the `Class Organization`.
+
+This is how it would look in code:
+
+```ruby
+Class School
+
+  attr_reader :name, :students, :teachers
+
+  def initialize(name, students, teachers)
+    @name = name
+    @students = students
+    @teachers = teachers
+  end
+
+  def student_teacher_ratio
+    @student.to_f / @teacher
+  end
+
+end
+```
+
+This creates the `Class School` and allows you to make new schools with the traits they have in common: name, students, and teachers in this simplified case.
+
+To use the Class, you would create a new instance like this:
+
+```ruby
+dev_bootcamp = School.new("Dev Bootcamp", 60, 6)
+```
+
+This sets the instance variables in the dev_bootcamp instance. `@name` would be set to "Dev Bootcamp", `@students` would equal 60, and `@teachers` would equal 6.
+
+If you wanted to see what the name, students, teachers, and student/teacher ratio was, then you could call the instance methods on the object dev_bootcamp like so:
+
+```ruby
+puts dev_bootcamp.name
+puts dev_bootcamp.students
+puts dev_bootcamp.teachers
+puts dev_bootcamp.student_teacher_ratio
+
+# Outputs:
+# Dev Bootcamp
+# 60
+# 6
+# 10.0
+```
+
+This is just a basic example, but you can easily image adding many more attributes to the class and all sorts of instance methods for statistics or getting other information.

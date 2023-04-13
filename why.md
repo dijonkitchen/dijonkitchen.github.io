@@ -2,7 +2,7 @@
 layout: post
 title: why
 # Updated date that overrides created file date
-date: 2020-04-23
+updated_on: 2020-04-23
 ---
 
 Cyborg memory is better than the human brain, so this tracks my wonderful adventures in thought and lets me keep in touch with memories using the [autobiography](/me) tools of the future!
@@ -29,8 +29,8 @@ Commonplace [tiddlywiki](https://github.com/Jermolene/TiddlyWiki5)
 
 My "Jonki" is a [spaced-repetition](https://en.wikipedia.org/wiki/Anki_(software)) wiki.
 
-## [Slowly] wrangling legacy social media(Twitter, Facebook, Goodreads, Trello, Medium, Keep, Notes, Docs, etc)  into a controlled, centralized network of thoughts. 
+## [Slowly] wrangling legacy social media(Twitter, Facebook, Goodreads, Trello, Medium, Keep, Notes, Docs, etc)  into a controlled, centralized network of thoughts.
 
-The internet is be dark and full of terrors. Companies struggling to survive are gathering as much [data as possible](/privacy) on people to sell or influence them into do things they don't want. We, the people, need a relief from these hyperactive, short-term, consumption-focused lives. Long-form content we make and control (or share) ourselves is really important. 
+The internet is be dark and full of terrors. Companies struggling to survive are gathering as much [data as possible](/privacy) on people to sell or influence them into do things they don't want. We, the people, need a relief from these hyperactive, short-term, consumption-focused lives. Long-form content we make and control (or share) ourselves is really important.
 
-This bliki shows the interconnected network of philosophy, business, life, technology and much more. We all share these wonders and connections with each other. 
+This bliki shows the interconnected network of philosophy, business, life, technology and much more. We all share these wonders and connections with each other.
