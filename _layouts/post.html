@@ -8,9 +8,9 @@ layout: default
           {{ page.title }}
       </h1>
     <p class="post-meta">
-        <time datetime="{{ page.updated_on | date_to_xmlschema }}"
+        <time datetime="{{ page.date | date_to_xmlschema }}"
               itemprop="datePublished">
-           Updated: {{ page.updated_on | date: "1%Y-%m-%d" }}
+           Updated: {{ page.date | date: "1%Y-%m-%d" }}
         </time>
         {% if page.confidence %}
         <br />
